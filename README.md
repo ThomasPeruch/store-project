@@ -1,4 +1,6 @@
 ## Store Project
+### Description
+  A simple project of an online store system.
 
 ### Stack 
 - Java
